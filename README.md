@@ -37,7 +37,7 @@ Estou empolgado para compartilhar um projeto que desenvolvi para automatizar o p
 ## 🌱 **Como Rodar o Projeto:**
 
 1. Clone o repositório:  
-   `git clone https://github.com/usuario/projeto.git`
+   `git clone https://github.com/caiomello42/parking_service.git`
 2. Navegue até o diretório do projeto:
    `cd projeto`
 3. Configure e inicie os containers Docker:
